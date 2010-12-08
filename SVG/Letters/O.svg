@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 -200 1000 1000"
+   id="svg2"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="N.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1328"
+     inkscape:window-height="792"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.03275"
+     inkscape:cx="6909.6532"
+     inkscape:cy="-4934.7792"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3075"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <path
+     inkscape:connector-curvature="0"
+     inkscape:export-ydpi="90"
+     inkscape:export-xdpi="90"
+     inkscape:export-filename="/Users/lgarron/Documents/Graphics/Fonts/Inception/GBexp/diff.png"
+     id="path4095"
+     d="m 414.75,93.625 c -1.6503,0.01 -3.3115,0.032 -4.9688,0.062 C 215.1591,97.3901 43.1165,238.3094 35.25,439.312 l 20.0312,0 c 7.8559,-189.5995 169.9376,-322.1062 354.875,-325.625 1.5764,-0.029 3.1568,-0.053 4.7188,-0.062 198.4597,-1.1697 343.9688,163.7181 343.9688,340 -3e-4,193.1607 -163.9644,338.0313 -353.3126,338.0312 -193.4193,2e-4 -344.6098,-145.4821 -350.375,-327.3437 l -20.0312,0 c 5.8146,192.7908 166.656,347.3438 370.4062,347.3437 199.6047,0 373.3123,-153.5441 373.3126,-358.0312 0,-187.2821 -154.5102,-361.2353 -364.0938,-360 z m 0.2812,45 c -1.4511,0.01 -2.9313,0.035 -4.4062,0.062 C 236.2227,142.0054 85.3819,266.1761 80.0938,444.0933 74.8245,621.3684 217.398,766.207 404.6562,766.6557 l 0,-20 C 227.7093,746.2099 95.1528,610.9132 100.0938,444.687 105.0544,277.7829 245.8663,161.829 411,158.687 c 1.4605,-0.028 2.8734,-0.055 4.1562,-0.062 173.4046,-1.0221 298.6873,143.4822 298.6876,295 -3e-4,159.5261 -128.4269,280.7255 -284.1876,292.1562 l 0,20.0313 C 595.6675,754.2617 733.8435,624.4184 733.8438,453.625 c -3e-4,-162.5317 -134.2575,-316.0878 -318.8126,-315 z m -14,44.3125 c -70.6782,-0.142 -139.3827,29.5192 -188.9374,71.8125 -52.8038,46.1334 -84.7265,114.1372 -87,190.6562 -2.2584,75.9786 23.8133,147.2285 74.5624,197.8438 l 0.1876,0.1875 c 50.8392,50.5933 123.7278,78.2189 205.6874,78.2187 153.7683,0 283.3123,-114.2785 283.3126,-268.0312 0,-134.3515 -108.0185,-264.3211 -261.875,-269.8125 l 0,20.0313 c 142.6346,5.498 241.875,126.3783 241.875,249.7812 -3e-4,142.5971 -119.3065,248.0317 -263.3126,248.0312 C 328.0422,701.6564 260.589,675.6756 213.9375,629.25 167.286,582.8244 142.9787,517.1584 145.0938,446 147.2144,374.6463 176.7504,312.1858 225.25,269.8125 287.9621,225.9371 335.9552,206.2087 401.9688,203.875 l 0,-20.9375 c -0.312,0 -0.6256,6e-4 -0.9376,0 z m 17.6563,45.6875 c -63.0433,0.4 -135.6853,25.0114 -176.9687,60.0312 -43.366,37.8887 -69.7185,92.896 -71.6563,158.0938 -1.9385,65.2203 19.9928,123.4751 61.5,164.7812 41.5072,41.3062 101.9183,65.125 173.9687,65.125 128.9258,4e-4 232.4057,-88.6286 238.0626,-212.3437 l -20.0313,0 c -5.5083,112.9738 -98.2695,192.3442 -218.0313,192.3437 -135.3984,0 -219.0634,-88.3726 -215.4687,-209.3124 3.5829,-120.5463 94.999,-196.2583 222.6563,-198.6876 1.9501,-0.037 3.8813,-0.046 5.8124,-0.031 115.9287,0.8912 197.3432,94.6158 204.7813,190.6875 l 20.0313,0 C 635.8992,332.3603 545.9373,229.6034 418.6875,228.6252 z"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:155;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+</svg>

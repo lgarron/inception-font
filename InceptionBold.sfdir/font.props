@@ -1,0 +1,579 @@
+SplineFontDB: 3.0
+FontName: InceptionBold
+FullName: Inception Bold
+FamilyName: Inception
+Weight: Bold
+Copyright: Created by Lucas Garron, 2010.\nReleased under the MIT License.\n\n\nFont inspired by the the maze lettering for the title of the movie INCEPTION by Christopher Nolan.\n\nCreated by Lucas Garron, Oct-Dec 2010, in Berlin, Germany.\nwww.garron.us\n\nDedicated to Douglas Hofstadter, who taught me to navigate the maze of levels in in my mind.\n\nFair-use derivative work based on the "Gotham Black" typeface by The Hoefler Type Foundry, www.typography.com
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -113
+UnderlineWidth: 20
+Ascent: 800
+Descent: 200
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back"  1
+Layer: 1 1 "Fore"  0
+XUID: [1021 1003 589493469 7932800]
+FSType: 256
+OS2Version: 2
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1128921389
+ModificationTime: 1291506536
+PfmFamily: 33
+TTFWeight: 900
+TTFWidth: 5
+LineGap: 67
+VLineGap: 0
+Panose: 2 0 6 3 4 0 0 2 0 4
+OS2TypoAscent: -70
+OS2TypoAOffset: 1
+OS2TypoDescent: 40
+OS2TypoDOffset: 1
+OS2TypoLinegap: 67
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: -202
+HheadAOffset: 1
+HheadDescent: 13
+HheadDOffset: 1
+OS2SubXSize: 700
+OS2SubYSize: 650
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 700
+OS2SupYSize: 650
+OS2SupXOff: 0
+OS2SupYOff: 477
+OS2StrikeYSize: 50
+OS2StrikeYPos: 250
+OS2Vendor: 'PYRS'
+OS2CodePages: 20000111.00000000
+OS2UnicodeRanges: 800000af.40000048.00000000.00000000
+Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0"  {"'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'frac' Diagonal Fractions in Latin lookup 1"  {"'frac' Diagonal Fractions in Latin lookup 1 contextual 0"  "'frac' Diagonal Fractions in Latin lookup 1 contextual 1"  } ['frac' ('latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 2"  {"'liga' Standard Ligatures in Latin lookup 2 subtable"  } ['liga' ('latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 3"  {"'liga' Standard Ligatures in Latin lookup 3 subtable"  } ['liga' ('latn' <'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'ordn' Ordinals in Latin lookup 4"  {"'ordn' Ordinals in Latin lookup 4 contextual 0"  "'ordn' Ordinals in Latin lookup 4 contextual 1"  "'ordn' Ordinals in Latin lookup 4 contextual 2"  "'ordn' Ordinals in Latin lookup 4 contextual 3"  } ['ordn' ('latn' <'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 5"  {"Ligature Substitution lookup 5 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 6"  {"Ligature Substitution lookup 6 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 7"  {"Single Substitution lookup 7 subtable"  } []
+Lookup: 257 0 0 "'cpsp' Capital Spacing in Latin lookup 0"  {"'cpsp' Capital Spacing in Latin lookup 0 subtable"  } ['cpsp' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: coverage "'ordn' Ordinals in Latin lookup 4 contextual 3"  0 0 0 1
+ 1 2 0
+  Coverage: 1 o
+  BCoverage: 49 zero one two three four five six seven eight nine
+  BCoverage: 6 period
+ 1
+  SeqLookup: 0 "Single Substitution lookup 7" 
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals in Latin lookup 4 contextual 2"  0 0 0 1
+ 1 2 0
+  Coverage: 1 a
+  BCoverage: 49 zero one two three four five six seven eight nine
+  BCoverage: 6 period
+ 1
+  SeqLookup: 0 "Single Substitution lookup 7" 
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals in Latin lookup 4 contextual 1"  0 0 0 1
+ 1 1 0
+  Coverage: 1 o
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 7" 
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals in Latin lookup 4 contextual 0"  0 0 0 1
+ 1 1 0
+  Coverage: 1 a
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 7" 
+EndFPST
+ChainSub2: coverage "'frac' Diagonal Fractions in Latin lookup 1 contextual 1"  0 0 0 1
+ 3 0 0
+  Coverage: 4 zero
+  Coverage: 14 slash fraction
+  Coverage: 4 zero
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 6" 
+EndFPST
+ChainSub2: coverage "'frac' Diagonal Fractions in Latin lookup 1 contextual 0"  0 0 0 1
+ 4 0 0
+  Coverage: 4 zero
+  Coverage: 14 slash fraction
+  Coverage: 4 zero
+  Coverage: 4 zero
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 5" 
+EndFPST
+TtTable: prep
+PUSHW_1
+ 0
+CALL
+SVTCA[y-axis]
+PUSHW_3
+ 1
+ 2
+ 2
+CALL
+SVTCA[x-axis]
+PUSHW_3
+ 3
+ 2
+ 2
+CALL
+SVTCA[x-axis]
+PUSHW_8
+ 3
+ 29
+ 23
+ 20
+ 15
+ 9
+ 0
+ 8
+CALL
+PUSHW_8
+ 4
+ 28
+ 23
+ 20
+ 15
+ 9
+ 0
+ 8
+CALL
+SVTCA[y-axis]
+PUSHW_8
+ 1
+ 34
+ 29
+ 20
+ 15
+ 9
+ 0
+ 8
+CALL
+PUSHW_8
+ 2
+ 37
+ 29
+ 24
+ 15
+ 9
+ 0
+ 8
+CALL
+SVTCA[y-axis]
+PUSHW_3
+ 5
+ 4
+ 7
+CALL
+PUSHW_1
+ 0
+DUP
+RCVT
+RDTG
+ROUND[Black]
+RTG
+WCVTP
+EndTTInstrs
+TtTable: fpgm
+PUSHW_1
+ 0
+FDEF
+MPPEM
+PUSHW_1
+ 9
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHW_1
+ 511
+SCANCTRL
+PUSHW_1
+ 68
+SCVTCI
+PUSHW_2
+ 9
+ 3
+SDS
+SDB
+ENDF
+PUSHW_1
+ 1
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 2
+FDEF
+PUSHW_1
+ 1
+LOOPCALL
+POP
+ENDF
+PUSHW_1
+ 3
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+EIF
+DUP
+ROLL
+DUP
+ROLL
+MD[grid]
+ABS
+ROLL
+DUP
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+GT
+IF
+SWAP
+NEG
+ROLL
+EIF
+MDAP[rnd]
+DUP
+PUSHB_1
+ 0
+GTEQ
+IF
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ELSE
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+NEG
+EIF
+EIF
+MSIRP[no-rp0]
+ENDF
+PUSHW_1
+ 4
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+ROLL
+EIF
+DUP
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+GT
+IF
+SWAP
+ROLL
+EIF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHW_1
+ 5
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+LT
+IF
+LTEQ
+IF
+PUSHB_1
+ 128
+WCVTP
+ELSE
+PUSHB_1
+ 64
+WCVTP
+EIF
+ELSE
+POP
+POP
+DUP
+RCVT
+PUSHB_1
+ 192
+LT
+IF
+PUSHB_1
+ 192
+WCVTP
+ELSE
+POP
+EIF
+EIF
+ENDF
+PUSHW_1
+ 6
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+DUP
+DUP
+RCVT
+RDTG
+ROUND[Black]
+RTG
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 7
+FDEF
+PUSHW_1
+ 6
+LOOPCALL
+ENDF
+PUSHW_1
+ 8
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 64
+ELSE
+PUSHB_1
+ 0
+EIF
+ROLL
+ROLL
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHB_1
+ 128
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 192
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 256
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 320
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHW_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 3
+CINDEX
+RCVT
+PUSHW_1
+ 384
+LT
+IF
+SWAP
+POP
+PUSHW_1
+ 384
+SWAP
+POP
+ELSE
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SWAP
+POP
+SWAP
+POP
+EIF
+ELSE
+POP
+EIF
+WCVTP
+ENDF
+PUSHW_1
+ 9
+FDEF
+MPPEM
+GTEQ
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+EndTTInstrs
+ShortTable: cvt  13
+  20
+  162
+  150
+  191
+  198
+  0
+  14
+  541
+  12
+  700
+  14
+  730
+  7
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  226
+  1351
+  68
+  0
+  0
+  1
+  0
+  0
+  10
+  0
+  512
+  5998
+  0
+  0
+EndShort
+LangName: 1033 "" "" "Regular" "" "" "Version 001.000" "" "" "HTF Gotham Copr. The Hoefler Type Foundry, Inc" 
+GaspTable: 3 8 2 16 1 65535 3
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 29 17
+EndSplineFont

@@ -1,0 +1,16 @@
+
+StartChar: bar
+Encoding: 124 124 25
+Width: 150
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+50 1000 m 5,0,-1
+ 100 1000 l 5,1,-1
+ 100 0 l 5,2,-1
+ 50 0 l 5,3,-1
+ 50 1000 l 5,0,-1
+EndSplineSet
+Validated: 1
+EndChar

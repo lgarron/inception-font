@@ -1,0 +1,25 @@
+body {background: #000;}
+
+@font-face {
+	font-family: Inception;
+	src: url(InceptionBold.ttf) format("truetype");
+}
+
+h1, h2 {
+	font-family: Inception;
+	color: #F00; text-align: center;
+	text-transform: uppercase;
+	font-size: 96;
+	text-shadow:
+		1px 1px 1px #B00,
+		2px 2px 1px #700,
+		3px 3px 1px #300,
+		4px 4px 1px #000;
+	margin-bottom: 0.2em;
+}
+
+h2 {font-size: 64;}
+h1 a, h2 a {color: #F00; text-decoration: none;}
+h1 a:hover, h2 a:hover {text-decoration: underline;}
+
+pre {background: #FDD; padding: 16px; border-radius: 1em;}

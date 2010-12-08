@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="100%"
+   height="100%"
+   viewBox="0 -200 1000 1000"
+   id="svg2"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="C.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1328"
+     inkscape:window-height="792"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.03275"
+     inkscape:cx="6909.6532"
+     inkscape:cy="-4934.7792"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3075"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <path
+     inkscape:connector-curvature="0"
+     inkscape:export-ydpi="90"
+     inkscape:export-xdpi="90"
+     inkscape:export-filename="/Users/lgarron/Documents/Graphics/Fonts/Inception/GBexp/diff.png"
+     id="path4232"
+     d="m 188.4062,106 c -8.6484,0.011 -16.5525,0.056 -23.4687,0.094 -18.4431,0.1019 -29.906,0.25 -29.9063,0.25 l -78.6874,0.4687 0,78.6875 0,534.3438 0,78.0312 20,0 0,-612.375 0,-58.8125 c 40.5856,-0.075 77.3385,-0.6378 112.0937,-0.6875 60.3166,-0.075 157.943,0.9386 209.0625,6.4063 167.0172,17.8644 275.4382,156.425 281.8438,300.4375 3.4349,77.2313 -17.6186,156.2339 -64.0938,221.2187 -46.0876,64.4433 -121.482,114.1914 -214,120.9688 -93.1542,6.8241 -266.5312,3.9688 -266.5312,3.9688 l -0.031,0 -0.031,0 -13.1562,-0.1875 c 0.063,-24.4842 -0.1563,-48.4017 -0.1562,-72.8125 l 28.3124,0 20,0 32.2813,0 0,-0.031 12.75,0 c 58.3345,-0.024 132.5924,-0.5003 181.2187,-4.0625 69.7004,-5.106 125.1066,-42.058 159.75,-90.5 31.1737,-43.5887 48.1129,-96.555 50.4376,-149.7813 l -20.0313,0 c -2.3469,49.2395 -18.1763,98.29 -46.6875,138.1563 -31.6313,44.2299 -81.4122,77.5338 -144.9375,82.1875 -47.2473,3.4611 -121.5264,3.976 -179.75,4 -32.6266,-0.047 -63.175,0.042 -93.3437,0.031 l 0,-500.5 0,-14.0938 c 23.758,-0.092 44.4052,-0.3732 67.1562,-0.4062 59.7445,-0.075 158.5419,1.2707 204.2188,6.1562 144.5979,15.4665 236.1948,134.9038 241.6562,257.6875 3.0124,67.7298 -15.5453,136.8581 -55.7188,193.0313 -38.9555,54.4707 -102.3978,96.5461 -180.6874,102.2812 -75.4198,5.525 -213.0395,4.407 -251.5313,3.9688 l 0,20 c 38.793,0.4592 175.8218,1.6225 253,-4.0313 84.6162,-6.1986 153.3877,-51.7089 195.5,-110.5937 42.984,-60.1033 62.6068,-133.5727 59.4063,-205.5313 -5.8794,-132.1752 -104.9466,-260.1562 -259.5,-276.6875 -48.2045,-5.1559 -146.3367,-6.3562 -206.375,-6.2812 -28.7956,0.1241 -57.6441,0.3672 -87.125,0.5312 l 0,33.9688 0,613.5 33.0312,0 c 0,0 173.0208,2.9515 268.3438,-4.0313 98.8395,-7.2405 179.5448,-60.3911 228.8124,-129.2812 49.2683,-68.8901 71.404,-152.2692 67.7813,-233.7188 C 692.4864,278.4866 576.6135,131.4623 399.6256,112.5315 346.174,106.8144 248.9462,105.9248 188.4068,106.0003 z m -38.75,93.7187 0,20.1563 0,45.375 0,375.7187 0,19.9375 20,0 0,-19.9375 0,-375.7187 0,-45.375 45.375,0.375 c 63.0741,0.5253 136.2414,1.0525 172.5626,4.9375 120.733,12.9137 193.8698,111.1819 198.5,211.4375 l 20.0312,0 c -0.01,-0.1666 -0.024,-0.3334 -0.031,-0.5 C 601.2236,326.6284 520.434,219.2939 389.719,205.3125 350.7634,201.1457 278.2441,200.7752 215.1877,200.25 l -45.375,-0.375 -20.1563,-0.1563 z m 45,45.375 0,20.1563 0,375.7187 0,20 20,0 c 58.0512,-0.024 132.5397,-0.6095 177.9688,-3.9375 56.9179,-4.1695 97.8352,-31.8181 126.4375,-71.8125 29.3301,-41.0115 44.3459,-95.7614 42.0625,-147.0937 -3.9995,-89.9198 -66.9384,-176.3772 -176.1875,-188.0625 -28.1449,-3.0104 -88.493,-4.0345 -145.1875,-4.5938 l 0,20 c 56.8127,0.5969 117.7152,1.7576 143.0625,4.4688 99.9415,10.6898 154.7167,87.5151 158.3437,169.0625 2.0736,46.6109 -12.1952,97.9875 -38.375,134.5937 -26.179,36.6062 -59.9927,59.7176 -111.625,63.5 -43.9745,3.2214 -118.5869,3.8513 -176.5,3.875 l 0,-375.7187 c 0.031,2e-4 0.063,-2e-4 0.094,0 l 0,-20 -20.0938,-0.1563 z"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0;word-spacing:0;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:155;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  <path
+     inkscape:export-ydpi="90"
+     inkscape:export-xdpi="90"
+     inkscape:export-filename="/Users/lgarron/Documents/Graphics/Fonts/Inception/GBexp/diff.png"
+     inkscape:connector-curvature="0"
+     id="path3150"
+     d="m 159.6562,660.9062 0,45.0938"
+     style="font-size:992.90777588px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:155;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans" />
+</svg>

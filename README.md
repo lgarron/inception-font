@@ -1,6 +1,6 @@
 ### INCEPTION BOLD
 
-![Inception Bold](https://github.com/lgarron/inception-font/blob/master/images/InceptionBold.png)
+![Inception Bold](https://github.com/lgarron/inception-font/raw/master/images/InceptionBold.png)
 
 Released under the MIT License.
 

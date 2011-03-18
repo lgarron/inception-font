@@ -1,10 +1,6 @@
-<html><head><title>INCEPTION</title><link rel="stylesheet" href="readme.css" type="text/css"/></head><body>
-<h1><a href="./InceptionBold.ttf">Inception Bold</a></h1>
-<h2>A font by<br>Lucas Garron</h2>
-<pre>
+### INCEPTION BOLD
 
-
-INCEPTION BOLD
+![Inception Bold](https://github.com/lgarron/inception-font/blob/master/images/InceptionBold.png)
 
 Released under the MIT License.
 
@@ -32,7 +28,7 @@ in the copyright of the font. I say "MIT license", but I basically mean
 "Do anything interesting you want; just stay respectful, nothing stupid."
 
 ------------------------------------------
-Methodology
+## Methodology
 
 Tools used: Inkscape, FontForge
 
@@ -58,10 +54,7 @@ room for improvement:
 - Various alternate mazes for each letter.
 
 ------------------------------------------
-CHANGELOG
+## CHANGELOG
 
 Dec. 5, 2010
 - First version by lgarron
-
-</pre>
-</body></html>
